@@ -5,9 +5,9 @@ import "fmt"
 func main() {
 	var name string
 
-	name = "Iwan Prasetiyo"
+	name = "Olivier Giroud"
 	fmt.Println(name)
 
-	name = "Muazzam Ahsan Sakhi"
+	name = "Paolo Maldini"
 	fmt.Println(name)
 }
